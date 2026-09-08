@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/sayan1112/sayan1112/main/image1.png"
      alt="Header"
      width="100%"
-     style="border-radius: 6px; background:#0b0f14;" />
+     style="border-radius: 6px; background:#ff1f1f;" />
 
 <br/>
 
@@ -20,16 +20,16 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <div align="center">
 <a href="https://sayan1112.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-ff1f1f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sayan1112/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-ff1f1f?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/sayan1112">
-  <img src="https://img.shields.io/badge/TWITTER-111827?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TWITTER-ff1f1f?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="mailto:sayan1112@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-ff1f1f?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
@@ -98,10 +98,10 @@ I'm sharpening my problem-solving skills through:
 ## 🧠 What I'm Learning
 
 <div align="center">
-<img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-111827?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-111827?style=for-the-badge&logo=serverless&logoColor=white"/>
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-ff1f1f?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-ff1f1f?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-ff1f1f?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-ff1f1f?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </div>
 
 ---
@@ -109,8 +109,8 @@ I'm sharpening my problem-solving skills through:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sayan1112&show_icons=true&theme=dark&bg_color=0b0f14&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&border_color=111827" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan1112&theme=dark&background=0b0f14&border=111827&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayan1112&show_icons=true&theme=dark&bg_color=ff1f1f&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&border_color=ff1f1f" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan1112&theme=dark&background=ff1f1f&border=ff1f1f&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="165" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -118,7 +118,7 @@ I'm sharpening my problem-solving skills through:
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan1112&bg_color=0b0f14&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=111111&hide_border=false" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan1112&bg_color=ff1f1f&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=ff1f1f&hide_border=false" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -144,4 +144,6 @@ I'm sharpening my problem-solving skills through:
                   │              │              │
                   ▼              ▼              ▼
                Docker          Linux          Cloud
+```
+
 ```
